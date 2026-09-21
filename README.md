@@ -30,3 +30,11 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,nginx,mongodb,mysql,nodejs,py,react,vscode,anaconda,arduino,azure,eclipse,kotlin,matlab,notion,obsidian,octave,redhat,pycharm&perline=14" />
   </a>
 </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=patriilaago&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=patriilaago&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
