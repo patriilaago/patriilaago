@@ -42,24 +42,6 @@
 <br/>
 
 <a href="https://github.com/patriilaago">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patriilaago&theme=gruvbox" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/patriilaago">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patriilaago&theme=gruvbox&utcOffset=5.5" alt="Productive Time"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/patriilaago">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patriilaago&theme=gruvbox" alt="Top Languages by Repo"/>
-</a>
-<a href="https://github.com/patriilaago">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patriilaago&theme=gruvbox" alt="Top Languages by Commit"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/patriilaago">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=patriilaago&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </a>
 
