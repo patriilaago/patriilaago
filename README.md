@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Patricia</h1></summary>
+    <summary><h1 style="display: inline-block">Bienvenid@ al Github de Patricia 👋</h1></summary>
   </ul>
 </div>
 
@@ -29,4 +29,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,nginx,mongodb,mysql,nodejs,py,react,vscode,anaconda,arduino,azure,eclipse,kotlin,matlab,notion,obsidian,octave,redhat,pycharm&perline=14" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&layout=compact" alt="Top Langs" />
 </p>
