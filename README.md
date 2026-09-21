@@ -38,11 +38,22 @@
 <a href="https://github.com/patriilaago">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patriilaago&theme=tokyonight" alt="GitHub Profile Summary"/>
 </a>
-
 <br/>
+
 <a href="https://github.com/patriilaago">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=patriilaago&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 <br/>
 
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=patriilaago&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 </div>
+
+
+
+
+
+
+
+
+
