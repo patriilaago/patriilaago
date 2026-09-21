@@ -30,7 +30,3 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,nginx,mongodb,mysql,nodejs,py,react,vscode,anaconda,arduino,azure,eclipse,kotlin,matlab,notion,obsidian,octave,redhat,pycharm&perline=14" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&layout=compact" alt="Top Langs" />
-</p>
