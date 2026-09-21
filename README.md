@@ -31,20 +31,40 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-<h2>👀 My github Stats</h2>
+<a href="https://github.com/patriilaago">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox" alt="GitHub Profile Summary"/>
+</a>
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patriilaago" alt="GitHub Stats" /> <br/><br/>
-  
+<br/>
+
+<a href="https://github.com/patriilaago">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bindian0509&theme=gruvbox" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/patriilaago">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bindian0509&theme=gruvbox&utcOffset=5.5" alt="Productive Time"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/patriilaago">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindian0509&theme=gruvbox" alt="Top Languages by Repo"/>
+</a>
+<a href="https://github.com/patriilaago">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bindian0509&theme=gruvbox" alt="Top Languages by Commit"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/patriilaago">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bindian0509&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
 </div>
 
 
