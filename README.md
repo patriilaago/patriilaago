@@ -36,12 +36,12 @@
 <div align="center">
 
 <a href="https://github.com/patriilaago">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patriilaago" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patriilaago&theme=tokyonight" alt="GitHub Profile Summary"/>
 </a>
 
 <br/>
 <a href="https://github.com/patriilaago">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=patriilaago&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=patriilaago&theme=tokyonigh&hide_border=true" alt="GitHub Streak"/>
 </a>
 <br/>
 
