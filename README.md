@@ -45,7 +45,11 @@
 </a>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&layout=compact&theme=tokyonight&hide_border=false)
+<!-- LANGS:START -->
+<!-- LANGS:END -->
+
+<!-- DATE:START -->
+<!-- DATE:END -->
 
 </div>
 
