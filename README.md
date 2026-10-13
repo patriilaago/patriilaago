@@ -45,15 +45,7 @@
 </a>
 <br/>
 
-<!-- LANGS:START -->
-|||
-|---|---|
-| Java | [████████████████████] 100.00% |
-|||
-<!-- LANGS:END -->
-
-<!-- DATE:START -->Last Updated: October 13, 2026 at 06:02:38 PM UTC
-<!-- DATE:END -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&theme=tokyonight&layout=compact&hide_border=false&forks=true&all=true&cache_seconds=1800" />
 
 </div>
 
