@@ -45,19 +45,7 @@
 </a>
 <br/>
 
-<!-- LANGS:START -->
-|||
-|---|---|
-| HTML | [█████████████░░░░░░░] 64.47% |
-| Java | [█████░░░░░░░░░░░░░░░] 23.09% |
-| JavaScript | [█░░░░░░░░░░░░░░░░░░░] 5.29% |
-| CSS | [█░░░░░░░░░░░░░░░░░░░] 4.83% |
-| C# | [░░░░░░░░░░░░░░░░░░░░] 2.33% |
-|||
-<!-- LANGS:END -->
-
-<!-- DATE:START -->Last Updated: October 13, 2026 at 06:24:09 PM UTC
-<!-- DATE:END -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriilaago&theme=tokyonight&layout=compact&hide_border=false&forks=true&all=true&cache_seconds=1800&v=1" />
 
 </div>
 
