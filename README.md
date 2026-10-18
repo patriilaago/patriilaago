@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,sqlite,mongodb,mysql,nodejs,py,react,vscode,maven,arduino,azure,eclipse,kotlin,androidstudio,notion,obsidian,jetpackcompose,pbi,pycharm&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,github,html,java,js,linux,sqlite,mongodb,mysql,nodejs,py,react,vscode,maven,arduino,azure,eclipse,kotlin,androidstudio,notion,obsidian,jetpackcompose,pbi,pycharm&perline=14" />
   </a>
 </p>
 
